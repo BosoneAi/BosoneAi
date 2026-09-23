@@ -9,7 +9,7 @@
 💬 a.k.a. Jaida Wu, Yuze Wu.
 > ⚡ A cat who is passionate about technologies, open-source, intelligence, convenience, etc.
 
-<img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=BosoneAi&hide_border=true&title_color=000&layout=compact">
 
 - A cat, nyaa~~~ 🐱
 - Chinese / 23 y.o. / [DSD Cis-gender](https://endo-ern.eu/rare-sex-development-maturation-conditions/46xy-dsd/) Girl
